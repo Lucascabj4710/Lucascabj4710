@@ -1,21 +1,69 @@
-# 💫 About Me:
-Hola! Mi nombre es Lucas Valenzuela, actualmente estoy estudiando Analista de Sistemas. Me apasiona el desarrollo backend, en especial con Java y Spring Boot, tecnologías que vengo practicando y profundizando desde noviembre de 2024.<br><br>Tengo conocimientos sólidos en Programación Orientada a Objetos (POO), uso de colecciones como ArrayList, manejo de excepciones, y experiencia con clases abstractas, herencia y polimorfismo. También me desenvuelvo en la normalización y modelado de bases de datos.<br><br>Estoy enfocado en crecer como desarrollador backend, con interés en buenas prácticas, arquitectura en capas y el desarrollo de APIs REST. Soy constante, autodidacta y disfruto enfrentar desafíos técnicos que me permitan seguir aprendiendo.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucas-martin-valenzuela-193470268) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucascabj2605@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lucascabj4710&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lucascabj4710&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascabj4710&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Lucascabj4710&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">👋 ¡Hola! Soy Lucas Valenzuela</h1>
+<h3 align="center">💻 Desarrollador Backend Java Jr. | Estudiante de Analista de Sistemas</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lucascabj4710&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 Sobre mí  
+Soy un desarrollador backend en formación con fuerte orientación hacia **Java** y **Spring Boot**.  
+Me apasiona construir aplicaciones sólidas, bien estructuradas y con buenas prácticas de programación.  
+
+Desde noviembre de 2024 vengo profundizando en el ecosistema **Spring**, la **arquitectura en capas** y el desarrollo de **APIs RESTful**.  
+Me caracterizo por ser **constante, autodidacta y muy curioso**; siempre busco mejorar la calidad de mi código y aprender nuevas tecnologías.
+
+---
+
+### 🚀 Tecnologías que uso  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📘 Conocimientos técnicos
+- Programación Orientada a Objetos (**POO**): herencia, polimorfismo, clases abstractas e interfaces.  
+- Manejo de colecciones en Java (**ArrayList**, **Map**, **Set**).  
+- Uso de **excepciones personalizadas** y **buenas prácticas de código**.  
+- **Modelado y normalización de bases de datos**.  
+- Implementación de **arquitectura en capas** y **APIs REST**.  
+- Control de versiones con **Git y GitHub**.
+
+---
+
+### 🎯 Objetivo profesional
+Busco seguir creciendo como **Desarrollador Backend Java**, enfocándome en:
+- Construcción de APIs escalables.  
+- Buenas prácticas de arquitectura y patrones de diseño.  
+- Integración de bases de datos y seguridad en Spring Boot.  
+
+---
+
+### 🌐 Contacto
+<p align="center">
+  <a href="mailto:lucascabj2605@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/lucas-martin-valenzuela-193470268"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucascabj4710&theme=tokyonight&hide_border=false&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=Lucascabj4710&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascabj4710&theme=tokyonight&layout=compact&hide_border=false" />
+</p>
+
+---
+
+<p align="center">👁️‍🗨️ <a href="https://visitcount.itsvg.in/api?id=Lucascabj4710&icon=0&color=0">Visitas a mi perfil</a></p>
+
+---
+
+⭐ *"Aprender, mejorar y crear código que funcione y se entienda: ese es el camino."*  
