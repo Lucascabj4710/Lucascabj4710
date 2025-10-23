@@ -53,15 +53,6 @@ Busco seguir creciendo como **Desarrollador Backend Java**, enfocándome en:
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucascabj4710&theme=tokyonight&hide_border=false&show_icons=true" />
-  <img src="https://streak-stats.demolab.com?user=Lucascabj4710&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascabj4710&theme=tokyonight&layout=compact&hide_border=false" />
-</p>
-
----
-
 <p align="center">👁️‍🗨️ <a href="https://visitcount.itsvg.in/api?id=Lucascabj4710&icon=0&color=0">Visitas a mi perfil</a></p>
 
 ---
